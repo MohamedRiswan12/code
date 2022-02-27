@@ -8,6 +8,11 @@ public class typeCasting {
 		
 		byte d=(byte)i;
 		System.out.println(d);
+		char c='b';
+		int num=112;
+		c=(char)num;
+		System.out.println(c);
+		
 
 	}
 
