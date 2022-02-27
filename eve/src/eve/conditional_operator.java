@@ -7,7 +7,7 @@ public class conditional_operator {
 	
 int num=10%2;
 boolean boo=(num==0);
-String result=boo?"odd numbers":"even numbers";
+String result=boo?"even number":"odd numbers";
 System.out.println(result);
 int a=20;
 int b=30;
